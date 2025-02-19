@@ -29,4 +29,8 @@ Remix: https://remix.ethereum.org/
 
 Dex(1): https://testnet.monad.xyz/
 
-Dex (2):
+3⃣ Explore ecosystem 
+
+https://stake.apr.io/
+
+https://app-monad-testnet.azaar.com/mint?chainId=10143
