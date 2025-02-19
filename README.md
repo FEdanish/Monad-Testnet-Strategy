@@ -9,3 +9,9 @@
 4) Watch the Monad part-1 video to learn the basics. It will show you how to invest and become eligible for Monad upcoming airdrop.
 
 5) Stay active on our telegram, I will share all the latest updates and tasks on the channel, keep completing them all on time
+
+<h>1⃣ Deploy smart-contract by using officials Guide 👇</h>
+
+Guide link: https://docs.monad.xyz/getting-started/deploy-smart-contract/remix
+
+Remix: https://remix.ethereum.org/
