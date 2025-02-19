@@ -1,4 +1,4 @@
-</h1>🔹Testnet Strategy</h1>
+<h1>🔹Testnet Strategy</h1>
 
 1) Keep doing 1-2 unique transactions daily on testnet until the mainnet of monad is launched.
 
