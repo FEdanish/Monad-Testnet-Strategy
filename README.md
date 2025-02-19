@@ -19,15 +19,15 @@
 
 '''
 
-<h>1⃣ Deploy smart-contract by using officials Guide 👇</h>
+<h>1⃣ Make Your First Trade
+
+Dex(1): https://testnet.monad.xyz/
+
+2⃣ Deploy smart-contract by using officials Guide 👇</h>
 
 Guide link: https://docs.monad.xyz/getting-started/deploy-smart-contract/remix
 
 Remix: https://remix.ethereum.org/
-
-2⃣ Make Your First Trade
-
-Dex(1): https://testnet.monad.xyz/
 
 3⃣ Explore ecosystem 
 
