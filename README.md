@@ -21,6 +21,6 @@
 
 1⃣ Make Your First Trade
 
-2⃣ Deploy smart-contract by using officials Guide 👇</h>
+2⃣ Deploy smart-contract by using officials Guide 
 
 3⃣ Explore ecosystem 
