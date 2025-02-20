@@ -19,18 +19,8 @@
 
 '''
 
-<h>1⃣ Make Your First Trade
-
-Dex(1): https://testnet.monad.xyz/
+1⃣ Make Your First Trade
 
 2⃣ Deploy smart-contract by using officials Guide 👇</h>
 
-Guide link: https://docs.monad.xyz/getting-started/deploy-smart-contract/remix
-
-Remix: https://remix.ethereum.org/
-
 3⃣ Explore ecosystem 
-
-https://stake.apr.io/
-
-https://app-monad-testnet.azaar.com/mint?chainId=10143
